@@ -87,8 +87,8 @@ function Header() {
         </div>
         {/* //////////// header third setion /////////////////////// */}
         <div className="flex  items-center justify-between px-[%]">
-          <div className="hidden md:flex  bg-[#2D2D2D] text-[#FFFFFF] w-fit mx-8 items-center">
-            <div className=" mr-[-1rem]  lg:flex gap-x-7 py-[2px] px-9 ">
+          <div className="hidden md:flex  bg-[#2D2D2D] text-[#FFFFFF] w-fit mx-8 items-start whitespace-nowrap ">
+            <div className=" mr-[-1rem]  lg:flex   gap-x-7 py-[2px] px-9 ">
               <span className="cursor-pointer rounded-sm py-1 px-2 text-[16px] ">
                 XBOX
               </span>
