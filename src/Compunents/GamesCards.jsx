@@ -16,7 +16,7 @@ import Blogimg3 from "../images/blog3.png";
 import Blogimg4 from "../images/blog4.png";
 import Blogimg5 from "../images/blog5.png";
 import Netprodimg from "../images/netproduct.png";
-import Frameimg from "../images/frame.png";
+import Frameimg from "../images/Frame.png";
 import Stemimg from "../images/stem.png";
 import Stemimg2 from "../images/Stemcard2.png";
 import Stemimg3 from "../images/Stemcard3.png";
