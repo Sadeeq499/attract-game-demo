@@ -85,7 +85,7 @@ const GamesCards = () => {
         <h1 className="py-12 px-4 text-4xl font-bold">GIFT CARDS</h1>
 
         {/* /////////// cards ///////////// */}
-        <div className="flex  items-center gap-8">
+        <div className="flex justify-center items-center gap-9">
           <HotGamesCard
             img={Productimg}
             title="Rendom hot deal 1key (pc) stem key Global."
