@@ -1,6 +1,5 @@
 import React from "react";
-import Logo from "../Images/logo.jpg";
-
+import Logo from "../images/logo.png";
 function Footer() {
   return (
     <div className="px-4 pt-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl mt-20 md:px-24 lg:px-8">
