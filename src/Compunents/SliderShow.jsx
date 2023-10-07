@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../Images/attrackGameLogo.jpeg";
+import logo from "../images/attrackGameLogo.jpeg";
 
 function SliderShow() {
   return (
